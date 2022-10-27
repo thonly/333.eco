@@ -16,6 +16,8 @@ template.innerHTML = `
                 <ul class="donors">
                     <li><a href="https://github.com/heartbank"><img src="https://github.com/heartbank.png?size=100"></a></li>
                     <li><a href="https://github.com/siliconwat"><img src="https://github.com/siliconwat.png?size=100"></a></li>
+                    <li><a href="https://github.com/thonlymetaverse"><img src="https://github.com/thonlymetaverse.png?size=100"></a></li>
+                    <li><a href="https://github.com/nhiakou"><img src="https://github.com/nhiakou.png?size=100"></a></li>
                 </ul>
             </section>
             <section>
@@ -39,7 +41,7 @@ template.innerHTML = `
             </section>
         </main>
         <footer>
-            <small>333™ Lab &copy; 2023</small>
+            <small><a href="https://github.com/333eco">333™ Lab</a> &copy; 2023</small>
         </footer>
     </nav>
 `;
