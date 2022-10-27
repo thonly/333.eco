@@ -36,7 +36,8 @@ template.innerHTML = `
                 </ul>
                 <h5>Donate</h5>
                 <ul>
-                    <li><a href="https://heartbank.fund">HeartBank®</a></li>
+                    <li><a href="https://heartbank.fund">HeartBank</a></li>
+                    <li><a href="https://github.com/sponsors/333eco">GitHub</a></li>
                 </ul>
             </section>
         </main>

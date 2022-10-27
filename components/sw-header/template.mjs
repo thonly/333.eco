@@ -20,7 +20,7 @@ template.innerHTML = `
                         <h4>Micro Wallet</h4>
                         <menu>
                             <li><a>Hard Wallet</a></li>
-                            <li><a>Self Charging</a></li>
+                            <li><a>Jewelry</a></li>
                         </menu>
                     </div>
                 </li>
@@ -45,7 +45,8 @@ template.innerHTML = `
                         <a href="#SiliconWat.org"><button>SiliconWat.org</button></a>
                         <h4>Free Internet</h4>
                         <menu>
-                            <li><a>Drones</a></li>
+                            <li><a>Micro Drones</a></li>
+                            <li><a>Decentralized Network</a></li>
                         </menu>
                     </div>
                 </li>
