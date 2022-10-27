@@ -1,7 +1,7 @@
 :root {
     --palette-color-1: #264653;
     --palette-color-2: #2A9D8F;
-    --palette-color-3: #eae2b7;
+    --palette-color-3: black;
     --palette-color-4: #fcbf49; 
     --palette-color-5: #E76F51;
 }
@@ -12,17 +12,12 @@ html {
 }
 
 body {
-    background: linear-gradient(var(--palette-color-3), var(--palette-color-4));
+    background: linear-gradient(var(--palette-color-4), var(--palette-color-5));
     margin: 0;
     display: flex;
     flex-direction: column;
     height: 100vh;
-}
-
-main {
-    display: grid;
-    grid-template-rows: auto auto;
-    overflow: scroll;
+    overflow: hidden;
 }
 
 sw-header {
@@ -30,11 +25,16 @@ sw-header {
     --theme-color-2: var(--palette-color-2);
 }
 
+main {
+    display: grid;
+    grid-template-rows: auto auto;
+    overflow: hidden scroll;
+}
+
 sw-main {
-    min-height: 100vh;
+    min-height: 90vh;
 }
 
 sw-footer {
-    min-height: 20vh;
-    --theme-color: var(--palette-color-1);
+    --theme-color: var(--palette-color-3);
 }

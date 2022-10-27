@@ -4,7 +4,7 @@ template.innerHTML = `
     <link rel="stylesheet" href="components/sw-header/shadow.css">
     <header>
         <section>
-            <a href="/"><img src="333.png"></a>
+            <a href="/"><figure>💗</figure></a>
             <a href="/"><h1>333™</h1></a>
         </section>
         <input id="menu-toggle" type="checkbox">
@@ -16,19 +16,11 @@ template.innerHTML = `
                 <li>
                     <h3>HeartBank®</h3>
                     <div>
-                        <a href="#backend-cohort"><button>333.eco</button></a>
-                        <h4>Wallet</h4>
+                        <a href="#HeartBank.org"><button>HeartBank.org</button></a>
+                        <h4>Micro Wallet</h4>
                         <menu>
-                            <li><a>Watch Videos on Udemy</a></li>
-                            <li><a>Read Textbook on Medium</a></li>
-                            <li><a href="#backend-quiz">Take Quizzes to Check Understanding</a></li>
-                        </menu>
-                        <h4>Personal Identification</h4>
-                        <menu>
-                            <li><a href="#backend-podcast">Podcast: Motivation & Coding Music</a></li>
-                            <li><a href="#backend-code">Interactive Coding Exercises</a></li>
-                            <li><a>Remote Pair Programming on Discord</a></li>
-                            <li><a>Students' Solo Projects on Replit</a></li>
+                            <li><a>Hard Wallet</a></li>
+                            <li><a>Self Charging</a></li>
                         </menu>
                     </div>
                 </li>
@@ -37,18 +29,11 @@ template.innerHTML = `
                 <li>
                     <h3>Nhia Kou</h3>
                     <div>
-                        <a href="#coupon"><button>Kiitos.Earth</button></a>
-                        <h4>Inclusion & Diversity</h4>
+                        <a href="#NhiaKou.org"><button>NhiaKou.org</button></a>
+                        <h4>Free Energy</h4>
                         <menu>
-                            <li><a>Women & Minorities</a></li>
-                            <li><a>Ukrainian Refugees</a></li>
-                            <li><a>Cambodian Genocide</a></li>
-                        </menu>
-                        <h4>Campuses</h4>
-                        <menu>
-                            <li><a>Cambodia</a></li>
-                            <li><a>Ukraine</a></li>
-                            <li><a>United States</a></li>
+                            <li><a>Solar Power</a></li>
+                            <li><a>Power Storage</a></li>
                         </menu>
                     </div>
                 </li>
@@ -57,26 +42,10 @@ template.innerHTML = `
                 <li>
                     <h3>Silicon Wat</h3>
                     <div>
-                        <a href="#ios-cohort"><button>HeartBank.Net</button></a>
-                        <h4>Explorer</h4>
+                        <a href="#SiliconWat.org"><button>SiliconWat.org</button></a>
+                        <h4>Free Internet</h4>
                         <menu>
-                            <li><a>Watch Videos on Udemy</a></li>
-                            <li><a>Read Textbook on Medium</a></li>
-                            <li><a href="#ios-quiz">Take Quizzes to Check Understanding</a></li>
-                        </menu>
-                        <h4>Supra Blockchain</h4>
-                        <menu>
-                            <li><a href="#ios-podcast">Podcast: Motivation & Coding Music</a></li>
-                            <li><a href="#ios-code">Interactive Coding Exercises</a></li>
-                            <li><a>Remote Pair Programming on Discord</a></li>
-                            <li><a>Students' Solo Projects on GitHub</a></li>
-                        </menu>
-                        <h4>Infra Blockchains</h4>
-                        <menu>
-                            <li><a>Live Demo: Music Apps</a></li>
-                            <li><a>Syntax Flashcards</a></li>
-                            <li><a>Students' Writings on Medium</a></li>
-                            <li><a>Mock Interviews on YouTube</a></li>
+                            <li><a>Drones</a></li>
                         </menu>
                     </div>
                 </li>
@@ -85,18 +54,11 @@ template.innerHTML = `
                 <li>
                     <h3>THonly™</h3>
                     <div>
-                        <a href="#coupon"><button>HeartBank.Domains</button></a>
-                        <h4>Browser</h4>
+                        <a href="#THonly.com"><button>THonly.com</button></a>
+                        <h4>Metaverse Gear</h4>
                         <menu>
-                            <li><a>Women & Minorities</a></li>
-                            <li><a>Ukrainian Refugees</a></li>
-                            <li><a>Cambodian Genocide</a></li>
-                        </menu>
-                        <h4>DNS</h4>
-                        <menu>
-                            <li><a>Cambodia</a></li>
-                            <li><a>Ukraine</a></li>
-                            <li><a>United States</a></li>
+                            <li><a>AR</a></li>
+                            <li><a>VR</a></li>
                         </menu>
                     </div>
                 </li>
