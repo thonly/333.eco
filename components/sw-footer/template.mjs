@@ -21,23 +21,20 @@ template.innerHTML = `
                 </ul>
             </section>
             <section>
-                <h5>R&D</h5>
-                <ul>
-                    <li><a href="https://heartbank.org">HeartBank®</a></li>
-                    <li><a href="https://nhiakou.org">Nhia Kou</a></li>
-                    <li><a href="https://siliconwat.org">Silicon Wat</a></li>
-                    <li><a href="https://thonly.com">THonly™</a></li>
-                </ul>
-            </section>
-            <section>
-                <h5>Contact</h5>
-                <ul>
-                    <li><a href="mailto:lab@333.eco">lab@333.eco</a></li>
-                </ul>
                 <h5>Donate</h5>
                 <ul>
                     <li><a href="https://heartbank.fund">HeartBank</a></li>
                     <li><a href="https://github.com/sponsors/333eco">GitHub</a></li>
+                </ul>
+            </section>
+            <section>
+                <h5>Connect</h5>
+                <ul>
+                    <li><a href="https://talk.siliconwat.org">Silicon Wat</a></li>
+                </ul>
+                <h5>Contact</h5>
+                <ul>
+                    <li><a href="mailto:lab@333.eco">lab@333.eco</a></li>
                 </ul>
             </section>
         </main>

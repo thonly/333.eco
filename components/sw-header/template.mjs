@@ -20,7 +20,7 @@ template.innerHTML = `
                         <h4>Micro Wallet</h4>
                         <menu>
                             <li><a>Hard Wallet</a></li>
-                            <li><a>Jewelry</a></li>
+                            <li><a>Wearable Jewelry</a></li>
                         </menu>
                     </div>
                 </li>
