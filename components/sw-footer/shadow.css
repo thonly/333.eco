@@ -2,7 +2,6 @@
     background-color: var(--theme-color);
     color: #fffa;
     font-size: small;
-    height: fit-content;
 }
 
 nav {
@@ -84,7 +83,7 @@ ul.donors {
         width: 70%;
     }
 
-    section:nth-of-type(1) {
+    section:first-child {
         border-top: 1px solid #fff4;
         border-bottom: 1px solid #fff4;
     }
@@ -92,6 +91,11 @@ ul.donors {
     section:nth-of-type(2) {
         border: none;
         order: -1;
+    }
+
+    section:last-child {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
     }
 
     ul.donors {
