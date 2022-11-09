@@ -32,6 +32,12 @@ template.innerHTML = `
                         <li><a href="https://github.com/sponsors/333eco">GitHub</a></li>
                     </ul>
                 </div>
+                <div>
+                    <h5>Sponsor</h5>
+                    <ul>
+                        <li><a href="https://kiitos.earth">Kiitos</a></li>
+                    </ul>
+                </div>
             </section>
             <section>
                 <div>
