@@ -1,9 +1,9 @@
-import "./components/sw-header/element.mjs";
+import "./components/e3-header/element.mjs";
 
-import "./components/sw-main/sw-stealth/element.mjs";
-import "./components/sw-main/element.mjs";
+import "./components/e3-main/e3-stealth/element.mjs";
+import "./components/e3-main/element.mjs";
 
-import "./components/sw-footer/element.mjs";
+import "./components/e3-footer/element.mjs";
 
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}

@@ -1,6 +1,6 @@
 import template from './template.mjs';
 
-class SwHeader extends HTMLElement {
+class E3Header extends HTMLElement {
     constructor() {
         super();
         this.attachShadow({ mode: "open" });
@@ -15,4 +15,4 @@ class SwHeader extends HTMLElement {
     }
 }
 
-customElements.define("sw-header", SwHeader);
+customElements.define("e3-header", E3Header);
