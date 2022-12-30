@@ -1,4 +1,4 @@
-import { ORIGIN, THONLY } from "/global.mjs";
+import { ECO333 as ORIGIN, THONLY } from "https://thonly.org/global.mjs";
 const template = document.createElement("template");
 
 template.innerHTML = `

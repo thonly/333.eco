@@ -1,6 +1,6 @@
 import "./e3-donors/element.mjs";
 import "./e3-sponsors/element.mjs";
-import { THONLY } from "/global.mjs";
+import { THONLY } from "https://thonly.org/global.mjs";
 const template = document.createElement("template");
 
 template.innerHTML = `
