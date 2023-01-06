@@ -8,16 +8,10 @@ class E3Stealth extends HTMLElement {
     }
 
     render(origin) {
-        this.style.display = 'block';
         const a = this.shadowRoot.querySelector('a');
-        const button = this.shadowRoot.querySelector('button');
-
-        if (origin) {
-            a.href = "https://" + origin;
-            button.textContent = origin;
-        } else {
-            a.style.display = 'none';
-        }
+        a.href = origin ? "https://" + origin : "https://me.thonly.net/#333";
+        a.firstElementChild.innerHTML = origin || "<b>Follow</b> for real-time updates!";
+        this.style.display = 'block';
     }
 }
 
