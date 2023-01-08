@@ -29,7 +29,7 @@ template.innerHTML = `
             </section>
             <section>
                 <div>
-                    <h5>Follow</h5>
+                    <h5>Follow</h5> 
                     <ul>
                         <li><a href="https://me.thonly.net/#333">THonly</a></li>
                     </ul>
