@@ -2,6 +2,7 @@
     display: none;
     font-size: medium;
     position: relative;
+	color: white;
 }
 
 header, main, footer {
@@ -12,7 +13,6 @@ header, main, footer {
 }
 
 header {
-    color: white;
     margin-top: 10%;
     text-align: left;
     margin-left: 5%;
