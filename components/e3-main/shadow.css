@@ -1,17 +1,62 @@
 :host {
     display: none;
     font-size: medium;
+    position: relative;
 }
 
-slot {
-    color: white;
+header, main, footer {
+    display: none;
+	z-index: 100;
+	position: absolute;
+	width: 100%;
 }
+
+header {
+    color: white;
+    margin-top: 10%;
+    text-align: left;
+    margin-left: 5%;
+    opacity: 0.5;
+}
+
+main {
+    text-align: center;
+    margin-top: 5%;
+}
+
+footer {    
+    margin-top: 20%;
+	opacity: 0.5;
+	text-align: left;
+	left: 5%;
+}
+
+button {
+	font-size: large;
+    padding: 5px 40px;
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+@media (max-width: 480px) {
+    :host {
+        font-size: small;
+    }
+
+    header {
+        margin-top: 3%;
+    }
+
+	main {
+		margin-top: 4%;
+	}
+}
+
+/*======*/
 
 svg {
     width: 100%;
 }
-
-/*======*/
 
 #background, #sun {
 	fill: white;
