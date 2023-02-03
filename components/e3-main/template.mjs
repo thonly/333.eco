@@ -13,7 +13,7 @@ template.innerHTML = `
         <tl-kiitos></tl-kiitos>
     </main>
     <footer>
-        <!--<tl-robot></tl-robot>-->
+        <tl-robot></tl-robot>
     </footer>
     
     <svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 841.9 595.3" style="enable-background:new 0 0 841.9 595.3;"
