@@ -15,7 +15,7 @@ template.innerHTML = `
         </label>
         <ul>
             <li>
-                <h3>HeartBank®</h3>
+                <h3>HeartBank<sup>®</sup></h3>
                 <nav>
                     <a href="https://heartbank.org"><button>HeartBank.org</button></a>
                     <h4>Micro Wallet</h4>
