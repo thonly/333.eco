@@ -10,6 +10,8 @@ figure {
 	rotate: 90deg;
 }
 
-@media (max-width: 480px) {
-	
+@media (max-height: 480px) {
+	section {
+		flex: 1;
+	}
 }
