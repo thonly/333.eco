@@ -13,52 +13,54 @@ template.innerHTML = `
         <label class='menu-button-container' for="menu-toggle">
             <span class='menu-button'></span>
         </label>
-        <ul>
-            <li>
-                <h3>HeartBank<sup>®</sup></h3>
-                <nav>
-                    <a href="https://heartbank.org"><button>HeartBank.org</button></a>
-                    <h4>Micro Wallet</h4>
-                    <menu>
-                        <li><a href="#wallet">Hard Wallet</a></li>
-                        <li><a href="#wearable">Wearable Jewelry</a></li>
-                    </menu>
-                </nav>
-            </li>
-            <li>
-                <h3>Nhia Kou</h3>
-                <nav>
-                    <a href="https://nhiakou.org"><button>NhiaKou.org</button></a>
-                    <h4>Free Energy</h4>
-                    <menu>
-                        <li><a href="#solar">Solar Power</a></li>
-                        <li><a href="#storage">Power Storage</a></li>
-                    </menu>
-                </nav>
-            </li>
-            <li>
-                <h3>Silicon Wat</h3>
-                <nav>
-                    <a href="https://siliconwat.org"><button>SiliconWat.org</button></a>
-                    <h4>Free Internet</h4>
-                    <menu>
-                        <li><a href="#drone">Micro Drones</a></li>
-                        <li><a href="#network">Decentralized Network</a></li>
-                    </menu>
-                </nav>
-            </li>
-            <li>
-                <h3>THonly™</h3>
-                <nav>
-                    <a href="https://thonly.com"><button>THonly.com</button></a>
-                    <h4>Metaverse Gear</h4>
-                    <menu>
-                        <li><a href="#ar">AR</a></li>
-                        <li><a href="#vr">VR</a></li>
-                    </menu>
-                </nav>
-            </li>
-        </ul>
+        <div>
+            <ul>
+                <li>
+                    <h3>HeartBank<sup>®</sup></h3>
+                    <nav>
+                        <a href="https://heartbank.org"><button>HeartBank.org</button></a>
+                        <h4>Micro Wallet</h4>
+                        <menu>
+                            <li><a href="#wallet">Hard Wallet</a></li>
+                            <li><a href="#wearable">Wearable Jewelry</a></li>
+                        </menu>
+                    </nav>
+                </li>
+                <li>
+                    <h3>Nhia Kou</h3>
+                    <nav>
+                        <a href="https://nhiakou.org"><button>NhiaKou.org</button></a>
+                        <h4>Free Energy</h4>
+                        <menu>
+                            <li><a href="#solar">Solar Power</a></li>
+                            <li><a href="#storage">Power Storage</a></li>
+                        </menu>
+                    </nav>
+                </li>
+                <li>
+                    <h3>Silicon Wat</h3>
+                    <nav>
+                        <a href="https://siliconwat.org"><button>SiliconWat.org</button></a>
+                        <h4>Free Internet</h4>
+                        <menu>
+                            <li><a href="#drone">Micro Drones</a></li>
+                            <li><a href="#network">Decentralized Network</a></li>
+                        </menu>
+                    </nav>
+                </li>
+                <li>
+                    <h3>THonly™</h3>
+                    <nav>
+                        <a href="https://thonly.com"><button>THonly.com</button></a>
+                        <h4>Metaverse Gear</h4>
+                        <menu>
+                            <li><a href="#ar">AR</a></li>
+                            <li><a href="#vr">VR</a></li>
+                        </menu>
+                    </nav>
+                </li>
+            </ul>
+        </div>
         <aside>
             <select onchange="this.getRootNode().host.changeLanguage(event)">
                 <option value="en">English</option>
