@@ -16,6 +16,18 @@ template.innerHTML = `
         <div>
             <ul>
                 <li>
+                    <h3>Kiitos</h3>
+                    <nav>
+                        <a href="https://kiitos.earth"><button>Kiitos.Earth</button></a>
+                    </nav>
+                </li>
+                <li>
+                    <h3>Kiitti</h3>
+                    <nav>
+                        <a href="https://kiitti.app"><button>Kiitti.app</button></a>
+                    </nav>
+                </li>
+                <!--<li>
                     <h3>HeartBank<sup>®</sup></h3>
                     <nav>
                         <a href="https://heartbank.org"><button>HeartBank.org</button></a>
@@ -58,7 +70,7 @@ template.innerHTML = `
                             <li><a href="#vr">VR</a></li>
                         </menu>
                     </nav>
-                </li>
+                </li>-->
             </ul>
         </div>
         <aside>
