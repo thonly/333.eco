@@ -1,4 +1,24 @@
 export default {
+    airbnb: {
+        chat: `Currently in <i>stealth</i> development...`,
+        button: null,
+        href: null
+    },
+    siliconwat: {
+        chat: `Currently in <i>stealth</i> development...`,
+        button: null,
+        href: null
+    },
+    thonly: {
+        chat: `Currently in <i>stealth</i> development...`,
+        button: null,
+        href: null
+    },
+    heartbank: {
+        chat: `Currently in <i>stealth</i> development...`,
+        button: null,
+        href: null
+    },
     // heartbank
     wallet: {
         chat: `Currently in <i>stealth</i> development...`,

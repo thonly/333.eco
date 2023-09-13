@@ -7,7 +7,7 @@ template.innerHTML = `
     <header>
         <section>
             <a href="#"><figure>💗</figure></a>
-            <h1>333™</h1>
+            <h1>333</h1>
         </section>
         <input id="menu-toggle" type="checkbox">
         <label class='menu-button-container' for="menu-toggle">
@@ -16,15 +16,27 @@ template.innerHTML = `
         <div>
             <ul>
                 <li>
-                    <h3>Kiitos</h3>
+                    <h3>Markets</h3>
                     <nav>
                         <a href="https://kiitos.earth"><button>Kiitos.Earth</button></a>
                     </nav>
                 </li>
                 <li>
-                    <h3>Kiitti</h3>
+                    <h3>Orchards</h3>
                     <nav>
-                        <a href="https://kiitti.app"><button>Kiitti.app</button></a>
+                        <menu>
+                            <li><a href="#airbnb">Airbnb Host Exchange</a></li>
+                            <li><a href="#heartbank">HeartBank<sup>®</sup> Farms</a></li>
+                        </menu>
+                    </nav>
+                </li>
+                <li>
+                    <h3>Research</h3>
+                    <nav>
+                        <menu>
+                            <li><a href="#thonly">THonly™ Lab</a></li>
+                            <li><a href="#siliconwat">Silicon Wat Campus</a></li>
+                        </menu>
                     </nav>
                 </li>
                 <!--<li>

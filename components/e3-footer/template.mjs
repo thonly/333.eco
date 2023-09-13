@@ -43,7 +43,7 @@ template.innerHTML = `
             </section>
         </main>
         <footer>
-            <small><a href="https://github.com/333eco">333™ Lab</a> &copy; 2023</small>
+            <small><a href="https://github.com/333eco">333 Ltd</a> &copy; 2023</small>
         </footer>
     </nav>
 `;
