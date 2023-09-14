@@ -37,7 +37,7 @@ template.innerHTML = `
                 <div>
                     <h5>Contact</h5>
                     <ul>
-                        <li><a href="mailto:lab@333.eco">lab@333.eco</a></li>
+                        <li><a href="mailto:labs@333.eco">labs@333.eco</a></li>
                     </ul>
                 </div>
             </section>

@@ -31,7 +31,7 @@ template.innerHTML = `
                     </nav>
                 </li>
                 <li>
-                    <h3>Research</h3>
+                    <h3>R&D</h3>
                     <nav>
                         <menu>
                             <li><a href="#thonly">THonly™ Lab</a></li>
