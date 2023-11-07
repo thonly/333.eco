@@ -4,7 +4,12 @@ export default {
         button: null,
         href: null
     },
-    labs: {
+    siliconwat: {
+        chat: `Currently in <i>stealth</i> development...`,
+        button: null,
+        href: null
+    },
+    thonly: {
         chat: `Currently in <i>stealth</i> development...`,
         button: null,
         href: null

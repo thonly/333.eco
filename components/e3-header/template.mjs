@@ -19,10 +19,10 @@ template.innerHTML = `
                     <h3>Labs</h3>
                     <nav>
                         <menu>
-                            <li><a href="#labs">Safety</a></li>
-                            <li><a href="#labs">Tuk Tuk</a></li>
-                            <li><a href="#labs">Delivery</a></li>
-                            <li><a href="#labs">Mobile Vendors</a></li>
+                            <li><a>Safety</a></li>
+                            <li><a>Tuk Tuk</a></li>
+                            <li><a>Delivery</a></li>
+                            <li><a>Mobile Vendors</a></li>
                         </menu>
                     </nav>
                 </li>
@@ -35,10 +35,13 @@ template.innerHTML = `
                 <li>
                     <h3>Orchards</h3>
                     <nav>
-                        <menu>
+                    <a href="https://heartbank.fund"><button>HeartBank.Fund</button></a>
+                        <!--<menu>
                             <li><a href="#airbnb">Airbnb Host Exchange</a></li>
                             <li><a href="#heartbank">HeartBank<sup>®</sup> Farms</a></li>
-                        </menu>
+                            <li><a href="#siliconwat">THonly Gyms</a></li>
+                            <li><a href="#thonly">Silicon Wat Campus</a></li>
+                        </menu>-->
                     </nav>
                 </li>
                 <!--<li>
