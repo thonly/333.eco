@@ -16,6 +16,17 @@ template.innerHTML = `
         <div>
             <ul>
                 <li>
+                    <h3>Labs</h3>
+                    <nav>
+                        <menu>
+                            <li><a href="#labs">Safety</a></li>
+                            <li><a href="#labs">Tuk Tuk</a></li>
+                            <li><a href="#labs">Delivery</a></li>
+                            <li><a href="#labs">Mobile Vendors</a></li>
+                        </menu>
+                    </nav>
+                </li>
+                <li>
                     <h3>Markets</h3>
                     <nav>
                         <a href="https://kiitos.earth"><button>Kiitos.Earth</button></a>
@@ -27,15 +38,6 @@ template.innerHTML = `
                         <menu>
                             <li><a href="#airbnb">Airbnb Host Exchange</a></li>
                             <li><a href="#heartbank">HeartBank<sup>®</sup> Farms</a></li>
-                        </menu>
-                    </nav>
-                </li>
-                <li>
-                    <h3>R&D</h3>
-                    <nav>
-                        <menu>
-                            <li><a href="#thonly">THonly™ Lab</a></li>
-                            <li><a href="#siliconwat">Silicon Wat Campus</a></li>
                         </menu>
                     </nav>
                 </li>
