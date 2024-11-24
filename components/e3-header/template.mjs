@@ -7,7 +7,7 @@ template.innerHTML = `
     <header>
         <section>
             <a href="#"><figure>💗</figure></a>
-            <h1>333</h1>
+            <h1>333℠</h1>
         </section>
         <input id="menu-toggle" type="checkbox">
         <label class='menu-button-container' for="menu-toggle">
@@ -16,17 +16,18 @@ template.innerHTML = `
         <div>
             <ul>
                 <li>
-                    <h3>Labs</h3>
+                    <h3>Exchanges</h3>
                     <nav>
                         <menu>
-                            <li><a>Safety</a></li>
+                            <li><a>TBA</a></li>
+                            <!--<li><a>Safety</a></li>
                             <li><a>Tuk Tuk</a></li>
                             <li><a>Delivery</a></li>
-                            <li><a>Mobile Vendors</a></li>
+                            <li><a>Mobile Vendors</a></li>-->
                         </menu>
                     </nav>
                 </li>
-                <li>
+                <!--<li>
                     <h3>Markets</h3>
                     <nav>
                         <a href="https://kiitos.earth"><button>Kiitos.Earth</button></a>
@@ -36,15 +37,15 @@ template.innerHTML = `
                     <h3>Orchards</h3>
                     <nav>
                     <a href="https://heartbank.fund"><button>HeartBank.Fund</button></a>
-                        <!--<menu>
+                        <!-<menu>
                             <li><a href="#airbnb">Airbnb Host Exchange</a></li>
                             <li><a href="#heartbank">HeartBank<sup>®</sup> Farms</a></li>
                             <li><a href="#siliconwat">THonly Gyms</a></li>
                             <li><a href="#thonly">Silicon Wat Campus</a></li>
-                        </menu>-->
+                        </menu>->
                     </nav>
                 </li>
-                <!--<li>
+                <!-<li>
                     <h3>HeartBank<sup>®</sup></h3>
                     <nav>
                         <a href="https://heartbank.org"><button>HeartBank.org</button></a>
